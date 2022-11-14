@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1668377666506
+  },
+  {
+    "name": "Cerveza perra",
+    "description": "",
+    "code": "códig44o",
+    "price": "200",
+    "pic": "https://http2.mlstatic.com/D_NQ_NP_922872-MLA51092790194_082022-O.webp",
+    "stock": 10,
+    "id": 2,
+    "timestamp": 1668452728789
+  }
+]
